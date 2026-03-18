@@ -1,0 +1,22 @@
+redis 
+scheduler -> cron.js
+
+.ejs file -> email content create
+
+eventlog,scrrenlog,errorLog -> detect the what we doing
+
+RTK Query 
+
+
+param vera queryparams vera
+
+axios la useSelector use pana mudiyathu
+
+Blob -image / file buffer file download             
+
+
+// jira
+
+ticket issue type 
+
+epic,story,task,subtask
