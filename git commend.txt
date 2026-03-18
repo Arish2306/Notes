@@ -1,0 +1,12 @@
+Git and Github commend
+
+// configuration git
+
+git config --global user.name "Arish2306"
+
+git config --global user.email "arishchandran2306@gmail.com"
+
+
+
+remote repo -> github
+local repo  -> computer folder
