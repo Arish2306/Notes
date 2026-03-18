@@ -10,3 +10,23 @@ git config --global user.email "arishchandran2306@gmail.com"
 
 remote repo -> github
 local repo  -> computer folder
+
+git add  -> move to staging area
+
+git status -> check status
+
+git commit -m "message" -> save the changes 
+
+git push origin main -> push the code in main branch
+
+git switch -> change the branch
+
+git switch -c Update -> its create a branch and switch branch
+
+git add. -> add all chnage files
+
+git push -u origin Update -> new branch la add panuathu
+
+git merge branchName -> oru branch inaoru branch merge panurathu
+
+// merge pananlum push panatha github la add agum
