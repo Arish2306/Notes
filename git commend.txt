@@ -19,11 +19,13 @@ git commit -m "message" -> save the changes
 
 git push origin main -> push the code in main branch
 
-git switch -> change the brancha
+
+git switch -> change the branch
+
 
 git switch -c Update -> its create a branch and switch branch
 
-git add. -> add all chnage files
+git add . -> add all chnage files
 
 git push -u origin Update -> new branch la add panuathu
 
