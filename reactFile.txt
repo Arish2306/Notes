@@ -1,0 +1,47 @@
+ React 
+
+conflict prevent ui
+
+menolithic and microservice
+
+single responspiliticty principle
+
+
+
+api 
+
+load -> api -> render
+
+load -> render -> api -> render  - correct way
+
+
+Cors
+extension
+
+shimmer ui -> fallback ui
+
+routing v6
+createBrowserRouter
+RouterProvider
+userouterError
+
+
+chunking
+code spliting
+dynamic bundleing
+lazy loading
+om demand loading
+dynamic import
+
+
+Style
+
+css 
+style component
+
+
+Testing
+
+Unit testing
+intergration testing
+end to end testing
