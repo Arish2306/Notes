@@ -2,5 +2,7 @@ new testing code
 
 add new file to this 
 
-this is arish05
+
+this is arish18
+>>>>>>> main
 
