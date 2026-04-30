@@ -58,3 +58,40 @@ git push --set-upstream origin newbranch -> remote repo la add pan
 git push -u origin branchname // same shortcut // u mean upstream
 // itha upstram panita one time pana pothum
 // git push // panalae pothum
+
+
+/// conflict //
+
+main la oru changes panitu ina oru changes vera branch la panitiu merge panum pothu conflict error throe panum apo - main la source eduthu conflict slove panitu again push pani pr panum
+
+
+// git reset ,revert, stash ///
+
+ // reset  -> commit history ellam delete panirum
+
+git log
+
+git reset hashcode  -> ethacchum commit reset or chanhe pana athuku aprm iruka commit ellam modified la irukum stage panaum git add . panaum
+
+
+git reset --soft hashcode -> ipdi reset pana stage la irukum git add . pana thevai ila
+
+git reset --hard hashcode -> change panara commit aprm iruka commir delete agirum 
+
+
+//  revert  -> commit history ellam irkuku
+
+// git -revert hashcode -> commit 2 changes pana athuku gap la iruka ethayum delete pana commit2 la changes panum
+
+
+// stash
+
+some priority task hide pani vaika
+
+git stash -> stash pana
+
+git stash list -> stash pana list show pana
+
+git stash apply 'stash{id}' -> id kuduthu tha stash eduka mudiyum  
+
+conflict show panum 
