@@ -6,6 +6,8 @@ git config --global user.name "Arish2306"
 
 git config --global user.email "arishchandran2306@gmail.com"
 
+git config --global init.defaultBranch main
+
 
 
 remote repo -> github
@@ -23,7 +25,7 @@ git switch -> change the branch
 
 git switch -c Update -> its create a branch and switch branch
 
-git add. -> add all chnage files
+git add. -> add all change files
 
 git push -u origin Update -> new branch la add panuathu
 
@@ -39,3 +41,20 @@ pull request rise pana atha changes ellam remote repo la mattum tha agu local la
 
 git pull origin branchname -> remote repo la nadantha changes aa local ku kondu vara use panrom
 
+git log -> chnages check panurathuku
+
+git checkout hashcode -> changes check pana
+
+git checkout -f main changes delete pana
+
+git branch name-> ithum branch create panum
+
+git checkout name-> switch pana
+
+git branch newbranchname branch -> oru branch oda copy eduka / local la create panum
+
+git push --set-upstream origin newbranch -> remote repo la add pan
+
+git push -u origin branchname // same shortcut // u mean upstream
+// itha upstram panita one time pana pothum
+// git push // panalae pothum
