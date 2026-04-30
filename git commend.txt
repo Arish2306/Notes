@@ -56,3 +56,5 @@ git branch newbranchname branch -> oru branch oda copy eduka / local la create p
 git push --set-upstream origin newbranch -> remote repo la add pan
 
 git push -u origin branchname // same shortcut // u mean upstream
+// itha upstram panita one time pana pothum
+// git push // panalae pothum
